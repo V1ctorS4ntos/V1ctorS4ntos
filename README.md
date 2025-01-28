@@ -26,6 +26,14 @@ Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço
 />
 <img 
     align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -42,11 +50,11 @@ Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço
 />
 <img 
     align="left" 
-    alt="Spring"
-    title="Spring" 
+    alt="Angular"
+    title="Angular" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
 />
 <img 
     align="left" 
