@@ -123,14 +123,14 @@ Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=V1ctorS4ntos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=V1ctorS4ntos&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorS4ntos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorS4ntos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
