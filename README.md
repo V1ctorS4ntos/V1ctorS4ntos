@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Victor Felipe Gabriel dos Santos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Desenvolvedor de Software desde 2019, tenho Vasta experiência em projetos com utilizações nas tecnologias como Java, Kotlin, Javascript, SpringBoot, Angular e AWS.
 Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço parte de uma equipe estendida dentro do cliente Itaú responsável por cuidar do setor de contas e tarifas de milhões de usuários..
