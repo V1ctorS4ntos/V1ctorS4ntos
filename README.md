@@ -34,6 +34,14 @@ Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço
 />
 <img 
     align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aws/aws-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
