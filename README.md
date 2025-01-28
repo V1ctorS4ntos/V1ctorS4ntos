@@ -2,12 +2,20 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Victor Felipe Gabriel dos Santos, tenho 25 anos e sou natural do Parana. "[Victor](https://www.instagram.com/victorstockler)".
+Desenvolvedor de Software desde 2019, tenho Vasta experiência em projetos com utilizações nas tecnologias como Java, Kotlin, Javascript, SpringBoot, Angular e AWS.
+Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço parte de uma equipe estendida dentro do cliente Itaú responsável por cuidar do setor de contas e tarifas de milhões de usuários..
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
