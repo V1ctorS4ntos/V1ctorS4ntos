@@ -38,7 +38,7 @@ Atualmente atuo como Engenheiro de Software na BRQ Digital Solutions, onde faço
     title="Kafka" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kafka/kafka-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" 
 />
 <img 
     align="left" 
